@@ -9,3 +9,6 @@ Con los archivos que se encuentran en este repositorio es posible visualizar una
  ## Instrucciones para correr la página
  Clonar el repositorio en su ordenador
  Con ayuda de un programa como Visual Studio Code o directamente desde la carpeta de archivos, abrir el archivo que se llama index.html
+ ## Nota importante
+ En la carpeta de assets se encuentra el archivo css dentro de la carpeta css, esto se debe a que github no reconocía mi ordenador directamente y no podía subirlo con un commit.
+ 
